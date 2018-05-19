@@ -29,3 +29,35 @@ Moedas por bloco: 200 ADEV
 Bloco Halving : 520000 blocos
 
 Taxa Estimada: 0.001ADEV
+
+::::::::::::::::::: Translate ::::::::::::::::::::::::::::
+
+
+WHAT IS ADVERTCOIN?<br />
+AdvertCoin (ADEV) a decentralized crypto currency, created especially for the advertising market. A single platform for the advertising market. 
+Created with the purpose of extending the media further to the digital world, bringing new forms of payments, platforms and services quickly and practicality. 
+We use the same technology that litecoin (LTC), we are prepared and safely to provide quality services to our investors and all users.<br />
+
+DESCRIPTION ADVERTCOIN (ADEV)<br />
+Algorithm: Scrypt<br />
+
+Type: PoW
+
+Supply: 260 000 000
+
+Premine: 20%
+
+(Used to MAINTENANCE design, pre sale and entry into exchangers)
+Maturity of the coin: 15 blocks
+
+target spacing: 60 seconds
+
+target expectation: 3 blocks
+
+Transaction Confirmation: 6 Blocks
+
+Coins per block: 200 ADEV
+
+Halving block: 520000 blocks
+
+Estimated rate: 0.001ADEV
