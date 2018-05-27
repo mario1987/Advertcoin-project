@@ -1,0 +1,9 @@
+Building Advertcoin
+
+See doc/readme-qt.rst for instructions on building Advertcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Advertcoin.
+
+See doc/build-*.txt for instructions on building advertcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Advertcoin.
